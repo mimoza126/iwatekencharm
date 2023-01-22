@@ -10,12 +10,6 @@ li{
 }
 
 .navbar-brand {
-<<<<<<< HEAD
-    background: url("SobacchiPose9.jpg") no-repeat left center;
-=======
-    background: url("images/ダウンロード.png") no-repeat left center;
->>>>>>> d7955b33022cbfdcbe85ec30a3dd0938ca3b5db1
-    background-size: contain;
     height: 50px;
     width: 250px;
   }
