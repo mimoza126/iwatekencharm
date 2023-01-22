@@ -1,0 +1,36 @@
+.circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ec4646;
+    border-radius: 50%;
+    width: 230px;
+    height: 230px;
+    color: #fff;
+    font-size: 80px;
+    margin-left: 50px;
+    margin-top: -45px;
+  }
+.menu{
+    text-align: right;
+    font-size: 30px;
+    padding-right: 140px;
+}
+.setumei{
+    text-align: center;
+}
+table {
+    border: 1px solid gray;
+    width: 90%;
+    height: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td {
+    text-align: center;
+    border: 1px solid gray;
+
+}
+
+
+      
