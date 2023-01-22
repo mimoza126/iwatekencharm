@@ -7,7 +7,7 @@ li{
 }
 
 .navbar-brand {
-    background: url("/images/SobacchiPose9.jpg") no-repeat left center;
+    background: url("SobacchiPose9.jpg") no-repeat left center;
     background-size: contain;
     height: 50px;
     width: 250px;
