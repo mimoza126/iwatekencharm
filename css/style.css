@@ -1,0 +1,51 @@
+.circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    background: linear-gradient(-45deg, rgba(221, 224, 138, 0.8), rgba(164, 220, 121, 0.8)) fixed, url("../images/kanko2.jpg") fixed;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    color: #fff;
+    font-size: 80px;
+    margin-left: 50px;
+  }
+.minititle{
+    font-size: 20px;
+}
+body{
+    background-image: url("../images/back.png");
+    background-size: cover;
+}
+
+.setumei{
+    text-align: center;
+    margin-top: -60px;
+}
+.subtitle{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+table {
+
+    width: 90%;
+    height: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td {
+    text-align: center;
+
+}
+
+li{
+    list-style: none
+}
+
+
+  
+
+
+      
