@@ -126,6 +126,9 @@ footer {
   background:#FBF1D3;
 }
 
+body{
+  background-image: url(../images/haikeikijpg.jpg);
+}
 /* iframe */
 
 iframe {
