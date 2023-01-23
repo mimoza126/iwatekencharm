@@ -4,25 +4,23 @@
 リーダー
 
 坂本珠莉
-
-情報システム科
-
 s.sakamoto.sys22@morijyobi.ac.jp
 
-石川雅人
-
 情報システム科
 
+石川雅人
 ma.ishikawa.sys22@morijyobi.ac.jp
 
-大森柊人
-
 情報システム科
 
+大森柊人
 s.omori.sys22@morijyobi.ac.jp
 
+情報システム科
+
+
 佐々木杜馬
+t.sasaki.sys22@morijyobi.ac.jp
 
 情報システム科
 
-t.sasaki.sys22@morijyobi.ac.jp
