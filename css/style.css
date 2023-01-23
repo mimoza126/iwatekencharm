@@ -29,6 +29,7 @@ body{
 }
 
 table {
+
     width: 90%;
     height: 850px;
     margin-left: auto;
@@ -36,7 +37,19 @@ table {
 }
 td {
     text-align: center;
+
 }
+
+
+h1 {
+    padding: 0.5em;/*文字周りの余白*/
+    color: #494949;/*文字色*/
+    background: #fffaf4;/*背景色*/
+    border-left: solid 5px #ffaf58;/*左線（実線 太さ 色）*/
+  }
+
+
+  
 
 
       
