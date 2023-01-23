@@ -1,0 +1,81 @@
+body{
+    background-color: #FBF1D3;
+  }
+  div {
+      border-radius: 10px 20px 30px 40px;
+    }
+  
+  li{
+      list-style: none
+  }
+  
+  .navbar-brand {
+      background: url("images/ダウンロード.png") no-repeat left center;
+      background-size: contain;
+      height: 50px;
+      width: 250px;
+    }
+
+  
+  .resizeimage img { 
+    width: 100%;
+    height:65%;
+   }
+  a:hover {
+    background-color: #FBF1D3;
+  }
+  
+  .container {
+      width: auto;
+      max-width: 680px;
+      padding: 0 15px;
+    }
+    /*サイド*/
+    .sub-title {
+      font-size: 1.375rem;
+      padding: 0 8px 8px;
+      border-bottom: 2px #0bd solid;
+      font-weight: normal;
+  }
+  
+  aside p {
+      padding: 12px 10px;
+  }
+  
+  .sub-menu {
+      margin-bottom: 60px;
+      list-style: none;
+  }
+  
+  .sub-menu li {
+      /* 下線 */
+      border-bottom: 1px #ddd solid;
+  }
+  
+  .sub-menu a {
+      color: #432;
+      padding: 10px;
+      /* リンクのクリック範囲を広げる */
+      display: block;
+  }
+  
+  
+  /* マウスカーソルが乗ったときの処理 */
+  
+  .sub-menu a:hover {
+      color: #0bd;
+  }
+  
+  footer {
+    width: 100%;
+    background:#FBF1D3;
+  }
+  
+  body{
+    background-image: url(../images/haikeikijpg.jpg);
+  }
+  
+  h2{
+    color: rgb(255, 255, 255);
+    background-color: rgb(112, 132, 132);
+  }
